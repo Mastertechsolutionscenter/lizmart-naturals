@@ -1,0 +1,5 @@
+{
+  "colors": ["Black", "White", "Brown", "Grey"],
+  "sizes": ["Small", "Medium", "Large"],
+  "materials": ["Wood", "Metal", "Glass"]
+}

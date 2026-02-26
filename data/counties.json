@@ -1,0 +1,1620 @@
+[
+    {
+        "id": "30",
+        "name": "BARINGO",
+        "subCounties": [
+            {
+                "id": "3001",
+                "name": "BARINGO CENTRAL"
+            },
+            {
+                "id": "3002",
+                "name": "BARINGO NORTH"
+            },
+            {
+                "id": "3003",
+                "name": "EAST POKOT"
+            },
+            {
+                "id": "3004",
+                "name": "KOIBATEK"
+            },
+            {
+                "id": "3008",
+                "name": "LAKE BARINGO"
+            },
+            {
+                "id": "3005",
+                "name": "MARIGAT"
+            },
+            {
+                "id": "3006",
+                "name": "MOGOTIO"
+            },
+            {
+                "id": "3007",
+                "name": "TIATY EAST"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "name": "BOMET",
+        "subCounties": [
+            {
+                "id": "3605",
+                "name": "BOMET CENTRAL"
+            },
+            {
+                "id": "3601",
+                "name": "BOMET EAST"
+            },
+            {
+                "id": "3602",
+                "name": "CHEPALUNGU"
+            },
+            {
+                "id": "3603",
+                "name": "KONOIN"
+            },
+            {
+                "id": "3604",
+                "name": "SOTIK"
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "name": "BUNGOMA",
+        "subCounties": [
+            {
+                "id": "3901",
+                "name": "BUMULA"
+            },
+            {
+                "id": "3902",
+                "name": "BUNGOMA CENTRAL"
+            },
+            {
+                "id": "3903",
+                "name": "BUNGOMA EAST"
+            },
+            {
+                "id": "3904",
+                "name": "BUNGOMA NORTH"
+            },
+            {
+                "id": "3905",
+                "name": "BUNGOMA SOUTH"
+            },
+            {
+                "id": "3909",
+                "name": "BUNGOMA WEST"
+            },
+            {
+                "id": "3906",
+                "name": "CHEPTAIS"
+            },
+            {
+                "id": "3907",
+                "name": "KIMILILI"
+            },
+            {
+                "id": "3912",
+                "name": "MT ELGON FOREST"
+            },
+            {
+                "id": "3910",
+                "name": "TONGAREN"
+            },
+            {
+                "id": "3911",
+                "name": "WEBUYE WEST"
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "name": "BUSIA",
+        "subCounties": [
+            {
+                "id": "4001",
+                "name": "BUNYALA"
+            },
+            {
+                "id": "4002",
+                "name": "BUSIA"
+            },
+            {
+                "id": "4003",
+                "name": "BUTULA"
+            },
+            {
+                "id": "4004",
+                "name": "NAMBALE"
+            },
+            {
+                "id": "4005",
+                "name": "SAMIA"
+            },
+            {
+                "id": "4006",
+                "name": "TESO NORTH"
+            },
+            {
+                "id": "4007",
+                "name": "TESO SOUTH"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "name": "ELGEYO/MARAKWET",
+        "subCounties": [
+            {
+                "id": "2801",
+                "name": "KEIYO NORTH"
+            },
+            {
+                "id": "2802",
+                "name": "KEIYO SOUTH"
+            },
+            {
+                "id": "2803",
+                "name": "MARAKWET EAST"
+            },
+            {
+                "id": "2804",
+                "name": "MARAKWET WEST"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "name": "EMBU",
+        "subCounties": [
+            {
+                "id": "1401",
+                "name": "EMBU EAST"
+            },
+            {
+                "id": "1402",
+                "name": "EMBU NORTH"
+            },
+            {
+                "id": "1403",
+                "name": "EMBU WEST"
+            },
+            {
+                "id": "1405",
+                "name": "MBEERE NORTH"
+            },
+            {
+                "id": "1404",
+                "name": "MBEERE SOUTH"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "GARISSA",
+        "subCounties": [
+            {
+                "id": "701",
+                "name": "BALAMBALA"
+            },
+            {
+                "id": "702",
+                "name": "DADAAB"
+            },
+            {
+                "id": "703",
+                "name": "FAFI"
+            },
+            {
+                "id": "704",
+                "name": "GARISSA"
+            },
+            {
+                "id": "705",
+                "name": "HULUGHO"
+            },
+            {
+                "id": "706",
+                "name": "IJARA"
+            },
+            {
+                "id": "707",
+                "name": "LAGDERA"
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "name": "HOMA BAY",
+        "subCounties": [
+            {
+                "id": "4301",
+                "name": "HOMA BAY"
+            },
+            {
+                "id": "4302",
+                "name": "NDHIWA"
+            },
+            {
+                "id": "4304",
+                "name": "RACHUONYO EAST"
+            },
+            {
+                "id": "4303",
+                "name": "RACHUONYO NORTH"
+            },
+            {
+                "id": "4305",
+                "name": "RACHUONYO SOUTH"
+            },
+            {
+                "id": "4306",
+                "name": "RANGWE"
+            },
+            {
+                "id": "4307",
+                "name": "SUBA NORTH"
+            },
+            {
+                "id": "4308",
+                "name": "SUBA SOUTH"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "name": "ISIOLO",
+        "subCounties": [
+            {
+                "id": "1101",
+                "name": "GARBATULLA"
+            },
+            {
+                "id": "1102",
+                "name": "ISIOLO"
+            },
+            {
+                "id": "1103",
+                "name": "MERTI"
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "name": "KAJIADO",
+        "subCounties": [
+            {
+                "id": "3401",
+                "name": "ISINYA"
+            },
+            {
+                "id": "3402",
+                "name": "KAJIADO CENTRAL"
+            },
+            {
+                "id": "3403",
+                "name": "KAJIADO NORTH"
+            },
+            {
+                "id": "3404",
+                "name": "KAJIADO WEST"
+            },
+            {
+                "id": "3405",
+                "name": "LOITOKITOK"
+            },
+            {
+                "id": "3406",
+                "name": "MASHUURU"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "name": "KAKAMEGA",
+        "subCounties": [
+            {
+                "id": "3701",
+                "name": "BUTERE"
+            },
+            {
+                "id": "3702",
+                "name": "KAKAMEGA CENTRAL"
+            },
+            {
+                "id": "3703",
+                "name": "KAKAMEGA EAST"
+            },
+            {
+                "id": "3704",
+                "name": "KAKAMEGA NORTH"
+            },
+            {
+                "id": "3705",
+                "name": "KAKAMEGA SOUTH"
+            },
+            {
+                "id": "3706",
+                "name": "KHWISERO"
+            },
+            {
+                "id": "3707",
+                "name": "LIKUYANI"
+            },
+            {
+                "id": "3708",
+                "name": "LUGARI"
+            },
+            {
+                "id": "3709",
+                "name": "MATETE"
+            },
+            {
+                "id": "3710",
+                "name": "MATUNGU"
+            },
+            {
+                "id": "3711",
+                "name": "MUMIAS EAST"
+            },
+            {
+                "id": "3712",
+                "name": "MUMIAS WEST"
+            },
+            {
+                "id": "3713",
+                "name": "NAVAKHOLO"
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "name": "KERICHO",
+        "subCounties": [
+            {
+                "id": "3501",
+                "name": "BELGUT"
+            },
+            {
+                "id": "3502",
+                "name": "BURETI"
+            },
+            {
+                "id": "3503",
+                "name": "KERICHO EAST"
+            },
+            {
+                "id": "3504",
+                "name": "KIPKELION"
+            },
+            {
+                "id": "3505",
+                "name": "LONDIANI"
+            },
+            {
+                "id": "3506",
+                "name": "SOIN SIGOWET"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "name": "KIAMBU",
+        "subCounties": [
+            {
+                "id": "2202",
+                "name": "GATUNDU SOUTH"
+            },
+            {
+                "id": "2203",
+                "name": "GITHUNGURI"
+            },
+            {
+                "id": "2204",
+                "name": "JUJA"
+            },
+            {
+                "id": "2205",
+                "name": "KABETE"
+            },
+            {
+                "id": "2206",
+                "name": "KIAMBAA"
+            },
+            {
+                "id": "2207",
+                "name": "KIAMBU"
+            },
+            {
+                "id": "2301",
+                "name": "KIBISH"
+            },
+            {
+                "id": "2208",
+                "name": "KIKUYU"
+            },
+            {
+                "id": "2209",
+                "name": "LARI"
+            },
+            {
+                "id": "2210",
+                "name": "LIMURU"
+            },
+            {
+                "id": "2211",
+                "name": "RUIRU"
+            },
+            {
+                "id": "2212",
+                "name": "THIKA EAST"
+            },
+            {
+                "id": "2213",
+                "name": "THIKA WEST"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "KILIFI",
+        "subCounties": [
+            {
+                "id": "301",
+                "name": "CHONYI"
+            },
+            {
+                "id": "302",
+                "name": "GANZE"
+            },
+            {
+                "id": "303",
+                "name": "KALOLENI"
+            },
+            {
+                "id": "304",
+                "name": "KAUMA"
+            },
+            {
+                "id": "305",
+                "name": "KILIFI NORTH"
+            },
+            {
+                "id": "306",
+                "name": "KILIFI SOUTH"
+            },
+            {
+                "id": "307",
+                "name": "MAGARINI"
+            },
+            {
+                "id": "308",
+                "name": "MALINDI"
+            },
+            {
+                "id": "309",
+                "name": "RABAI"
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "name": "KIRINYAGA",
+        "subCounties": [
+            {
+                "id": "2002",
+                "name": "KIRINYAGA EAST"
+            },
+            {
+                "id": "2003",
+                "name": "KIRINYAGA WEST"
+            },
+            {
+                "id": "2101",
+                "name": "MURANG'A EAST"
+            },
+            {
+                "id": "2004",
+                "name": "MWEA EAST"
+            },
+            {
+                "id": "2005",
+                "name": "MWEA WEST"
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "name": "KISII",
+        "subCounties": [
+            {
+                "id": "4501",
+                "name": "ETAGO"
+            },
+            {
+                "id": "4502",
+                "name": "GUCHA"
+            },
+            {
+                "id": "4503",
+                "name": "GUCHA SOUTH"
+            },
+            {
+                "id": "4504",
+                "name": "KENYENYA"
+            },
+            {
+                "id": "4505",
+                "name": "KISII CENTRAL"
+            },
+            {
+                "id": "4506",
+                "name": "KISII SOUTH"
+            },
+            {
+                "id": "4507",
+                "name": "KITUTU CENTRAL"
+            },
+            {
+                "id": "4508",
+                "name": "MARANI"
+            },
+            {
+                "id": "4509",
+                "name": "MASABA SOUTH"
+            },
+            {
+                "id": "4510",
+                "name": "NYAMACHE"
+            },
+            {
+                "id": "4511",
+                "name": "SAMETA"
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "name": "KISUMU",
+        "subCounties": [
+            {
+                "id": "4202",
+                "name": "KISUMU CENTRAL"
+            },
+            {
+                "id": "4201",
+                "name": "KISUMU EAST"
+            },
+            {
+                "id": "4203",
+                "name": "KISUMU WEST"
+            },
+            {
+                "id": "4205",
+                "name": "MUHORONI"
+            },
+            {
+                "id": "4207",
+                "name": "NYAKACH"
+            },
+            {
+                "id": "4206",
+                "name": "NYANDO"
+            },
+            {
+                "id": "4204",
+                "name": "SEME"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "name": "KITUI",
+        "subCounties": [
+            {
+                "id": "1501",
+                "name": "IKUTHA"
+            },
+            {
+                "id": "1502",
+                "name": "KATULANI"
+            },
+            {
+                "id": "1503",
+                "name": "KISASI"
+            },
+            {
+                "id": "1504",
+                "name": "KITUI CENTRAL"
+            },
+            {
+                "id": "1505",
+                "name": "KITUI WEST"
+            },
+            {
+                "id": "1506",
+                "name": "KYUSO"
+            },
+            {
+                "id": "1507",
+                "name": "LOWER YATTA"
+            },
+            {
+                "id": "1508",
+                "name": "MATINYANI"
+            },
+            {
+                "id": "1509",
+                "name": "MIGWANI"
+            },
+            {
+                "id": "1510",
+                "name": "MUMONI"
+            },
+            {
+                "id": "1511",
+                "name": "MUTITU"
+            },
+            {
+                "id": "1512",
+                "name": "MUTITU NORTH"
+            },
+            {
+                "id": "1513",
+                "name": "MUTOMO"
+            },
+            {
+                "id": "1514",
+                "name": "MWINGI CENTRAL"
+            },
+            {
+                "id": "1515",
+                "name": "MWINGI EAST"
+            },
+            {
+                "id": "1516",
+                "name": "NZAMBANI"
+            },
+            {
+                "id": "1517",
+                "name": "THAGICU"
+            },
+            {
+                "id": "1518",
+                "name": "TSEIKURU"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "KWALE",
+        "subCounties": [
+            {
+                "id": "201",
+                "name": "KINANGO"
+            },
+            {
+                "id": "202",
+                "name": "LUNGA LUNGA"
+            },
+            {
+                "id": "203",
+                "name": "MATUGA"
+            },
+            {
+                "id": "204",
+                "name": "MSAMBWENI"
+            },
+            {
+                "id": "205",
+                "name": "SAMBURU"
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "name": "LAIKIPIA",
+        "subCounties": [
+            {
+                "id": "3101",
+                "name": "LAIKIPIA CENTRAL"
+            },
+            {
+                "id": "3102",
+                "name": "LAIKIPIA EAST"
+            },
+            {
+                "id": "3103",
+                "name": "LAIKIPIA NORTH"
+            },
+            {
+                "id": "3104",
+                "name": "LAIKIPIA WEST"
+            },
+            {
+                "id": "3105",
+                "name": "NYAHURURU"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "LAMU",
+        "subCounties": [
+            {
+                "id": "501",
+                "name": "LAMU EAST"
+            },
+            {
+                "id": "502",
+                "name": "LAMU WEST"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "name": "MACHAKOS",
+        "subCounties": [
+            {
+                "id": "1601",
+                "name": "ATHI RIVER"
+            },
+            {
+                "id": "1602",
+                "name": "KALAMA"
+            },
+            {
+                "id": "1603",
+                "name": "KANGUNDO"
+            },
+            {
+                "id": "1604",
+                "name": "KATHIANI"
+            },
+            {
+                "id": "1605",
+                "name": "MACHAKOS"
+            },
+            {
+                "id": "1606",
+                "name": "MASINGA"
+            },
+            {
+                "id": "1607",
+                "name": "MATUNGULU"
+            },
+            {
+                "id": "1608",
+                "name": "MWALA"
+            },
+            {
+                "id": "1609",
+                "name": "YATTA"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "name": "MAKUENI",
+        "subCounties": [
+            {
+                "id": "1701",
+                "name": "KATHONZWENI"
+            },
+            {
+                "id": "1702",
+                "name": "KIBWEZI"
+            },
+            {
+                "id": "1703",
+                "name": "KILUNGU"
+            },
+            {
+                "id": "1704",
+                "name": "MAKINDU"
+            },
+            {
+                "id": "1705",
+                "name": "MAKUENI"
+            },
+            {
+                "id": "1706",
+                "name": "MBOONI EAST"
+            },
+            {
+                "id": "1707",
+                "name": "MBOONI WEST"
+            },
+            {
+                "id": "1708",
+                "name": "MUKAA"
+            },
+            {
+                "id": "1709",
+                "name": "NZAUI"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "name": "MANDERA",
+        "subCounties": [
+            {
+                "id": "902",
+                "name": "BANISA"
+            },
+            {
+                "id": "903",
+                "name": "KOTULO"
+            },
+            {
+                "id": "904",
+                "name": "LAFEY"
+            },
+            {
+                "id": "905",
+                "name": "MANDERA CENTRAL"
+            },
+            {
+                "id": "906",
+                "name": "MANDERA EAST"
+            },
+            {
+                "id": "907",
+                "name": "MANDERA NORTH"
+            },
+            {
+                "id": "901",
+                "name": "MANDERA WEST"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "MARSABIT",
+        "subCounties": [
+            {
+                "id": "1001",
+                "name": "LOIYANGALANI"
+            },
+            {
+                "id": "1002",
+                "name": "MARSABIT CENTRAL"
+            },
+            {
+                "id": "1003",
+                "name": "MARSABIT NORTH"
+            },
+            {
+                "id": "1004",
+                "name": "MARSABIT SOUTH"
+            },
+            {
+                "id": "1005",
+                "name": "MOYALE"
+            },
+            {
+                "id": "1006",
+                "name": "NORTH HORR"
+            },
+            {
+                "id": "1007",
+                "name": "SOLOLO"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "name": "MERU",
+        "subCounties": [
+            {
+                "id": "1201",
+                "name": "BUURI EAST"
+            },
+            {
+                "id": "1202",
+                "name": "BUURI WEST"
+            },
+            {
+                "id": "1203",
+                "name": "IGEMBE CENTRAL"
+            },
+            {
+                "id": "1204",
+                "name": "IGEMBE NORTH"
+            },
+            {
+                "id": "1205",
+                "name": "IGEMBE SOUTH"
+            },
+            {
+                "id": "1206",
+                "name": "IMENTI NORTH"
+            },
+            {
+                "id": "1207",
+                "name": "IMENTI SOUTH"
+            },
+            {
+                "id": "1208",
+                "name": "MERU CENTRAL"
+            },
+            {
+                "id": "1209",
+                "name": "TIGANIA CENTRAL"
+            },
+            {
+                "id": "1210",
+                "name": "TIGANIA EAST"
+            },
+            {
+                "id": "1211",
+                "name": "TIGANIA WEST"
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "name": "MIGORI",
+        "subCounties": [
+            {
+                "id": "4401",
+                "name": "AWENDO"
+            },
+            {
+                "id": "4402",
+                "name": "KURIA EAST"
+            },
+            {
+                "id": "4403",
+                "name": "KURIA WEST"
+            },
+            {
+                "id": "4404",
+                "name": "NYATIKE"
+            },
+            {
+                "id": "4405",
+                "name": "RONGO"
+            },
+            {
+                "id": "4406",
+                "name": "SUNA EAST"
+            },
+            {
+                "id": "4407",
+                "name": "SUNA WEST"
+            },
+            {
+                "id": "4408",
+                "name": "URIRI"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "MOMBASA",
+        "subCounties": [
+            {
+                "id": "101",
+                "name": "CHANGAMWE"
+            },
+            {
+                "id": "102",
+                "name": "JOMVU"
+            },
+            {
+                "id": "103",
+                "name": "KISAUNI"
+            },
+            {
+                "id": "104",
+                "name": "LIKONI"
+            },
+            {
+                "id": "105",
+                "name": "MVITA"
+            },
+            {
+                "id": "106",
+                "name": "NYALI"
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "name": "MURANG'A",
+        "subCounties": [
+            {
+                "id": "2106",
+                "name": "GATANGA"
+            },
+            {
+                "id": "2201",
+                "name": "GATUNDU NORTH"
+            },
+            {
+                "id": "2104",
+                "name": "KAHURO"
+            },
+            {
+                "id": "2108",
+                "name": "KANDARA"
+            },
+            {
+                "id": "2102",
+                "name": "KANGEMA"
+            },
+            {
+                "id": "2107",
+                "name": "KIGUMO"
+            },
+            {
+                "id": "2103",
+                "name": "MATHIOYA"
+            },
+            {
+                "id": "2105",
+                "name": "MURANG'A SOUTH"
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "name": "NAIROBI CITY",
+        "subCounties": [
+            {
+                "id": "4701",
+                "name": "DAGORETTI"
+            },
+            {
+                "id": "4702",
+                "name": "EMBAKASI"
+            },
+            {
+                "id": "4703",
+                "name": "KAMUKUNJI"
+            },
+            {
+                "id": "4704",
+                "name": "KASARANI"
+            },
+            {
+                "id": "4705",
+                "name": "KIBRA"
+            },
+            {
+                "id": "4706",
+                "name": "LANG'ATA"
+            },
+            {
+                "id": "4707",
+                "name": "MAKADARA"
+            },
+            {
+                "id": "4708",
+                "name": "MATHARE"
+            },
+            {
+                "id": "4709",
+                "name": "NJIRU"
+            },
+            {
+                "id": "4710",
+                "name": "STAREHE"
+            },
+            {
+                "id": "4711",
+                "name": "WESTLANDS"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "name": "NAKURU",
+        "subCounties": [
+            {
+                "id": "3201",
+                "name": "GILGIL"
+            },
+            {
+                "id": "3202",
+                "name": "KURESOI NORTH"
+            },
+            {
+                "id": "3203",
+                "name": "KURESOI SOUTH"
+            },
+            {
+                "id": "3204",
+                "name": "MOLO"
+            },
+            {
+                "id": "3205",
+                "name": "NAIVASHA"
+            },
+            {
+                "id": "3206",
+                "name": "NAKURU EAST"
+            },
+            {
+                "id": "3207",
+                "name": "NAKURU NORTH"
+            },
+            {
+                "id": "3208",
+                "name": "NAKURU WEST"
+            },
+            {
+                "id": "3209",
+                "name": "NJORO"
+            },
+            {
+                "id": "3210",
+                "name": "RONGAI"
+            },
+            {
+                "id": "3211",
+                "name": "SUBUKIA"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "name": "NANDI",
+        "subCounties": [
+            {
+                "id": "2901",
+                "name": "CHESUMEI"
+            },
+            {
+                "id": "2902",
+                "name": "NANDI CENTRAL"
+            },
+            {
+                "id": "2903",
+                "name": "NANDI EAST"
+            },
+            {
+                "id": "2904",
+                "name": "NANDI NORTH"
+            },
+            {
+                "id": "2905",
+                "name": "NANDI SOUTH"
+            },
+            {
+                "id": "2906",
+                "name": "TINDERET"
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "name": "NAROK",
+        "subCounties": [
+            {
+                "id": "3301",
+                "name": "NAROK EAST"
+            },
+            {
+                "id": "3302",
+                "name": "NAROK NORTH"
+            },
+            {
+                "id": "3303",
+                "name": "NAROK SOUTH"
+            },
+            {
+                "id": "3304",
+                "name": "NAROK WEST"
+            },
+            {
+                "id": "3305",
+                "name": "TRANS MARA EAST"
+            },
+            {
+                "id": "3306",
+                "name": "TRANS MARA WEST"
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "name": "NYAMIRA",
+        "subCounties": [
+            {
+                "id": "4601",
+                "name": "BORABU"
+            },
+            {
+                "id": "4602",
+                "name": "MANGA"
+            },
+            {
+                "id": "4603",
+                "name": "MASABA NORTH"
+            },
+            {
+                "id": "4604",
+                "name": "NYAMIRA NORTH"
+            },
+            {
+                "id": "4605",
+                "name": "NYAMIRA SOUTH"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "name": "NYANDARUA",
+        "subCounties": [
+            {
+                "id": "1801",
+                "name": "KINANGOP"
+            },
+            {
+                "id": "1804",
+                "name": "KIPIPIRI"
+            },
+            {
+                "id": "1803",
+                "name": "MIRANGINE"
+            },
+            {
+                "id": "1805",
+                "name": "NYANDARUA CENTRAL"
+            },
+            {
+                "id": "1807",
+                "name": "NYANDARUA NORTH"
+            },
+            {
+                "id": "1802",
+                "name": "NYANDARUA SOUTH"
+            },
+            {
+                "id": "1806",
+                "name": "NYANDARUA WEST"
+            },
+            {
+                "id": "1901",
+                "name": "TETU"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "name": "NYERI",
+        "subCounties": [
+            {
+                "id": "1902",
+                "name": "KIENI EAST"
+            },
+            {
+                "id": "1903",
+                "name": "KIENI WEST"
+            },
+            {
+                "id": "2001",
+                "name": "KIRINYAGA CENTRAL"
+            },
+            {
+                "id": "1904",
+                "name": "MATHIRA EAST"
+            },
+            {
+                "id": "1905",
+                "name": "MATHIRA WEST"
+            },
+            {
+                "id": "1907",
+                "name": "MUKURWE-INI"
+            },
+            {
+                "id": "1908",
+                "name": "NYERI CENTRAL"
+            },
+            {
+                "id": "1906",
+                "name": "NYERI SOUTH"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "name": "SAMBURU",
+        "subCounties": [
+            {
+                "id": "2502",
+                "name": "SAMBURU EAST"
+            },
+            {
+                "id": "2503",
+                "name": "SAMBURU NORTH"
+            },
+            {
+                "id": "2601",
+                "name": "TRANS NZOIA WEST"
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "name": "SIAYA",
+        "subCounties": [
+            {
+                "id": "4105",
+                "name": "BONDO"
+            },
+            {
+                "id": "4102",
+                "name": "GEM"
+            },
+            {
+                "id": "4106",
+                "name": "RARIEDA"
+            },
+            {
+                "id": "4101",
+                "name": "SIAYA"
+            },
+            {
+                "id": "4103",
+                "name": "UGENYA"
+            },
+            {
+                "id": "4104",
+                "name": "UGUNJA"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "TAITA/TAVETA",
+        "subCounties": [
+            {
+                "id": "601",
+                "name": "MWATATE"
+            },
+            {
+                "id": "602",
+                "name": "TAITA"
+            },
+            {
+                "id": "603",
+                "name": "TAVETA"
+            },
+            {
+                "id": "604",
+                "name": "VOI"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "TANA RIVER",
+        "subCounties": [
+            {
+                "id": "401",
+                "name": "TANA DELTA"
+            },
+            {
+                "id": "402",
+                "name": "TANA NORTH"
+            },
+            {
+                "id": "403",
+                "name": "TANA RIVER"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "THARAKA-NITHI",
+        "subCounties": [
+            {
+                "id": "1301",
+                "name": "IGAMBANG'OMBE"
+            },
+            {
+                "id": "1302",
+                "name": "MAARA"
+            },
+            {
+                "id": "1303",
+                "name": "MERU SOUTH"
+            },
+            {
+                "id": "1304",
+                "name": "THARAKA NORTH"
+            },
+            {
+                "id": "1305",
+                "name": "THARAKA SOUTH"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "name": "TRANS NZOIA",
+        "subCounties": [
+            {
+                "id": "2701",
+                "name": "AINABKOI"
+            },
+            {
+                "id": "2604",
+                "name": "ENDEBESS"
+            },
+            {
+                "id": "2605",
+                "name": "KIMININI"
+            },
+            {
+                "id": "2603",
+                "name": "KWANZA"
+            },
+            {
+                "id": "2602",
+                "name": "TRANS NZOIA EAST"
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "name": "TURKANA",
+        "subCounties": [
+            {
+                "id": "2401",
+                "name": "KIPKOMO"
+            },
+            {
+                "id": "2302",
+                "name": "LOIMA"
+            },
+            {
+                "id": "2303",
+                "name": "TURKANA CENTRAL"
+            },
+            {
+                "id": "2304",
+                "name": "TURKANA EAST"
+            },
+            {
+                "id": "2305",
+                "name": "TURKANA NORTH"
+            },
+            {
+                "id": "2306",
+                "name": "TURKANA SOUTH"
+            },
+            {
+                "id": "2307",
+                "name": "TURKANA WEST"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "name": "UASIN GISHU",
+        "subCounties": [
+            {
+                "id": "2702",
+                "name": "KAPSERET"
+            },
+            {
+                "id": "2703",
+                "name": "KESSES"
+            },
+            {
+                "id": "2704",
+                "name": "MOIBEN"
+            },
+            {
+                "id": "2705",
+                "name": "SOY"
+            },
+            {
+                "id": "2706",
+                "name": "TURBO"
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "name": "VIHIGA",
+        "subCounties": [
+            {
+                "id": "3801",
+                "name": "EMUHAYA"
+            },
+            {
+                "id": "3805",
+                "name": "HAMISI"
+            },
+            {
+                "id": "3804",
+                "name": "LUANDA"
+            },
+            {
+                "id": "3803",
+                "name": "SABATIA"
+            },
+            {
+                "id": "3802",
+                "name": "VIHIGA"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "WAJIR",
+        "subCounties": [
+            {
+                "id": "801",
+                "name": "BUNA"
+            },
+            {
+                "id": "802",
+                "name": "ELDAS"
+            },
+            {
+                "id": "803",
+                "name": "HABASWEIN"
+            },
+            {
+                "id": "804",
+                "name": "TARBAJ"
+            },
+            {
+                "id": "805",
+                "name": "WAJIR EAST"
+            },
+            {
+                "id": "806",
+                "name": "WAJIR NORTH"
+            },
+            {
+                "id": "807",
+                "name": "WAJIR SOUTH"
+            },
+            {
+                "id": "808",
+                "name": "WAJIR WEST"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "name": "WEST POKOT",
+        "subCounties": [
+            {
+                "id": "2402",
+                "name": "POKOT CENTRAL"
+            },
+            {
+                "id": "2403",
+                "name": "POKOT NORTH"
+            },
+            {
+                "id": "2404",
+                "name": "POKOT SOUTH"
+            },
+            {
+                "id": "2501",
+                "name": "SAMBURU CENTRAL"
+            },
+            {
+                "id": "2405",
+                "name": "WEST POKOT"
+            }
+        ]
+    }
+]
