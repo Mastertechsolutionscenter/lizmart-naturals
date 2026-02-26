@@ -499,7 +499,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "C:\\Users\\PC\\Desktop\\lizmart-master\\generated\\prisma",
+      "value": "C:\\Users\\PC\\Documents\\GitHub\\lizmart\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -513,7 +513,7 @@ const config = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "C:\\Users\\PC\\Desktop\\lizmart-master\\prisma\\schema.prisma",
+    "sourceFilePath": "C:\\Users\\PC\\Documents\\GitHub\\lizmart\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
