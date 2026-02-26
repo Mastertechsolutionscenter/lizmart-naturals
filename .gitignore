@@ -1,41 +1,75 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
+# -------------------------------------------------
+# Dependencies
+# -------------------------------------------------
+node_modules/
+.pnp
 .pnp.js
 
-# testing
-/coverage
-.playwright
+# -------------------------------------------------
+# Next.js build output
+# -------------------------------------------------
+.next/
+out/
+build/
 
-# next.js
-/.next/
-/out/
+# -------------------------------------------------
+# Environment variables (VERY IMPORTANT ⭐)
+# Never push secrets
+# -------------------------------------------------
+.env
+.env.*
+!.env.example
+env.local
+.env.local
+environment variables.txt
 
-# production
-/build
+# -------------------------------------------------
+# Testing
+# -------------------------------------------------
+coverage/
+.playwright/
 
-# misc
-.DS_Store
-*.pem
-
-# debug
+# -------------------------------------------------
+# Logs
+# -------------------------------------------------
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
+pnpm-debug.log*
 
-# local env files
-.env*
-!.env.example
+# -------------------------------------------------
+# OS generated files
+# -------------------------------------------------
+.DS_Store
+Thumbs.db
 
-# vercel
-.vercel
-
-# typescript
+# -------------------------------------------------
+# TypeScript
+# -------------------------------------------------
 *.tsbuildinfo
 next-env.d.ts
-.env*.local
 
-/generated/prisma
+# -------------------------------------------------
+# IDE / Editor settings
+# -------------------------------------------------
+.vscode/
+.idea/
+
+# -------------------------------------------------
+# Prisma generated files
+# -------------------------------------------------
+/generated/prisma/
+
+# -------------------------------------------------
+# Deployment platforms
+# -------------------------------------------------
+.vercel/
+
+# -------------------------------------------------
+# Certificates / Keys
+# -------------------------------------------------
+*.pem
+
+# -------------------------------------------------
+# Miscellaneous
+# -------------------------------------------------
+*.log
