@@ -11,7 +11,6 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@auth/core": "^0.41.1",
     "@auth/prisma-adapter": "^2.10.0",
     "@auth/unstorage-adapter": "^2.10.0",
     "@headlessui/react": "^2.2.0",
